@@ -1,0 +1,3 @@
+#ignorar variables de entorno
+.env
+C:
